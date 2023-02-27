@@ -15,6 +15,7 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 #### Things we understand so far
 1. I know how to make an ssh key and add it to Github
 2. I Learned Github issues
+3. 
 #### Things we don't understand
 1. I anm completly lost and don't anything
 2. I wish I knew something
