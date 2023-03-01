@@ -12,15 +12,19 @@ The purpose of this assignment is to practice collaborating using GIT/GitHub and
 ### Complete the Assignment By adding your issues to these 3 lists and count how many times each issue is mentioned.  The number in the bracket next to each issue is the count, you should set your count at 1 for your issue.  We need the count of how many times the issue is mentioned, so that we can prioritze each issue.
 
 ### Your list should look like this:
-#### Things we understand so far
-1. I know how to make an ssh key and add it to Github
-2. I Learned Github issues
-3. 
+#### Things we understand**
+1.  Python Print[1]
+2.  Linux Directory listing[2] 
+3.  Docker Installation[1]
 #### Things we don't understand
-1. I anm completly lost and don't anything
-2. I wish I knew something
-#### Things we want to know next
-1. Something
+1. Git Stash[1]
+2. GIt pull[2]
+3. GIT status[1]
+#### Things we want to know next**
+1.  Elastic Search Indexing [1]
+2.  Cloud deployment with Kubernetes[2]
+3.  Teraform[1]
+
 ## Prerequisite - YOU. MUST SETUP PRIVATE PUBLIC KEY AUTH WITH GITHUB OR YOU WILL GET ACCESS DENIED ERRORS WHEN YOU PUSH FROM THE TERMINAL
 Add your ssh public key to github - See video
 **open powershell or terminal and run "ssh-keygen -b 4096" and hit enter through the prompts and then open the file **your home directory/.ssh/id_rsa.pub** and copy that text into your github account settings under SSH/GPG keys -> add key.  in one of the prompts it will tell you where it is going to save the key.  If you already have a key reusue the one you have and cancel out of the process with control c **.  I do it on my mac with the command vi ~/.ssh/id_rsa.pub" and then i press shift colon : and q to quit
